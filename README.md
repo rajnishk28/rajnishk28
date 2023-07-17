@@ -10,12 +10,12 @@
 - 📫 Reach me at **Ranisharyan12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajnish17" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" alt="https://www.linkedin.com/in/rajnish17" height="30" width="40" /></a>
+<p align"left">
+<a href="https://www.linkedin.com/in/rajnish17" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" alt="https://www.linkedin.com/in/rajnish17" height="30" width="40" /></a>
   
-<a href="https://instagram.com/https://www.instagram.com/rajnisharyan12" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_640.jpg" alt="https://www.instagram.com/rajnisharyan12" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rajnisharyan12" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_640.jpg" alt="https://www.instagram.com/rajnisharyan12" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/https://leetcode.com/rajnisharyan51/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrg0YkldHtX0NHgQ5Z9Je_rjVXIxDjKh48hyCEJj1&s" alt="https://leetcode.com/rajnisharyan51/" height="30" width="40" /></a>
+<a href="https://leetcode.com/rajnisharyan51/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrg0YkldHtX0NHgQ5Z9Je_rjVXIxDjKh48hyCEJj1&s" alt="https://leetcode.com/rajnisharyan51/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

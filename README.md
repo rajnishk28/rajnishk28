@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajnish17&show_icons=true&locale=en&layout=compact" alt="rajnish17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajnish17&show_icons=true&locale=en" alt="rajnish17" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnish17&" alt="rajnish17" /></p>
 

@@ -10,11 +10,7 @@
 
 - 📫 Reach me At **Ranisharyan12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajnish17" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/08/23/22/59/linked-in-2674741_1280.png" alt="in/rajnish17" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rajnisharyan12" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="https://www.instagram.com/rajnisharyan12" height="30" width="40" /></a>
-</p>
+
 
 
 

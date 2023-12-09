@@ -9,6 +9,8 @@
 - 💬 Ask me about **React js Node js**
 
 - 📫 Reach me At **Ranisharyan12@gmail.com**
+  
+-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajnish17&layout=compact&langs_count=10)](https://github.com/rajnish17/github-readme-stats)
 
 
 

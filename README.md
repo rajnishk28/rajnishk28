@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnish17&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish17" /> </p>
 
-- 🌱 I’m currently Exploring **DevOops**
+- 🌱 I’m currently Learning **Data Structure And Algorithm**
 
 - 💬 Ask me about **React js Node js**
 

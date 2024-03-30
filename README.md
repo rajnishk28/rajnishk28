@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajnish</h1>
 <h3 align="center">A passionate Full Stack Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnish17&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnishk28&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish17" /> </p>
 
 - 🌱 I’m currently Learning **Data Structure And Algorithm**
 
@@ -10,7 +10,7 @@
 
 - 📫 Reach me At **Ranisharyan12@gmail.com**
   
--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajnish17&layout=compact&langs_count=10)](https://github.com/rajnish17/github-readme-stats)
+-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajnishk28&layout=compact&langs_count=10)](https://github.com/rajnishk28/github-readme-stats)
 
 
 

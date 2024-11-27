@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajnish</h1>
-<h3 align="center">A passionate Full Stack Software developer from India</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from India</h3>
 
 
 - 🌱 I’m currently Learning **Data Structure And Algorithm**

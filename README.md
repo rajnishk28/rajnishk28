@@ -9,10 +9,4 @@
 
 - 📫 Reach me At **Ranisharyan12@gmail.com**
   
--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajnishk28&layout=compact&langs_count=10)](https://github.com/rajnishk28/github-readme-stats)
-
-
-
-
-
-
+![rajnishk28's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnishk28&theme=highcontrast&show_icons=true&hide_border=true&layout=compact) 

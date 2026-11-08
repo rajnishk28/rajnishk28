@@ -29,8 +29,9 @@
 
 ### 🌐 Connect With Me
 
-- 💈 Product: https://www.bookmytrim.in/
+- 💈 Product: https://www.bookmytrim.in
 - 💻 GitHub: https://github.com/rajnishk28
+- 🔗 LinkedIn: https://www.linkedin.com/in/rajnish20 
 
 ---
 
